@@ -1,0 +1,154 @@
+[
+  {
+    "id": 7,
+    "name": "T-Shirt",
+    "price": 25,
+    "category": "Tops",
+    "number": 0,
+    "image": "/img/1739611531812-istockphoto-483960103-612x612.jpg",
+    "_id": "67b05d8b4fa19c0257385961",
+    "__v": 0
+  },
+  {
+    "id": 8,
+    "name": "Scarf",
+    "price": 40,
+    "category": "Accessories",
+    "number": 0,
+    "image": "/img/1739611561638-360_F_121638391_0vBd0dGaT3rISNCDumNQXJbpVltl7S5x.jpg",
+    "_id": "67b05da94fa19c0257385965",
+    "__v": 0
+  },
+  {
+    "id": 9,
+    "name": "Cap",
+    "price": 30,
+    "category": "Accessories",
+    "number": 0,
+    "image": "/img/1739611667855-istockphoto-497600473-612x612.jpg",
+    "_id": "67b05e134fa19c0257385969",
+    "__v": 0
+  },
+  {
+    "id": 10,
+    "name": "Tie",
+    "price": 25,
+    "category": "Accessories",
+    "number": 0,
+    "image": "/img/1739611761854-istockphoto-157180004-612x612.jpg",
+    "_id": "67b05e714fa19c025738596c",
+    "__v": 0
+  },
+  {
+    "id": 11,
+    "name": "Clip",
+    "price": 20,
+    "category": "Accessories",
+    "number": 0,
+    "image": "/img/1739611787711-98424_2.jpg",
+    "_id": "67b05e8b4fa19c0257385970",
+    "__v": 0
+  },
+  {
+    "id": 12,
+    "name": "Jordans",
+    "price": 200,
+    "category": "Shoes",
+    "number": 0,
+    "image": "/img/1739611838848-WMNS+AIR+JORDAN+4+NET.png",
+    "_id": "67b05ebe4fa19c0257385974",
+    "__v": 0
+  },
+  {
+    "id": 13,
+    "name": "Skirt",
+    "price": 150,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1739611871103-download.jpeg",
+    "_id": "67b05edf4fa19c0257385978",
+    "__v": 0
+  },
+  {
+    "id": 14,
+    "name": "temp",
+    "price": 300,
+    "category": "Tops",
+    "number": 0,
+    "image": "/img/1740201417387-HTML&CSS Thumbnail.png",
+    "_id": "67b95dc96f47fc681f177be5",
+    "__v": 0
+  },
+  {
+    "id": 15,
+    "name": "temps2",
+    "price": 203,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1740201933292-CiC Thumbnail.png",
+    "_id": "67b95fcddcb08e46a2da74e3",
+    "__v": 0
+  },
+  {
+    "id": 16,
+    "name": "temps3",
+    "price": 257,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1740202045274-1649577.png",
+    "_id": "67b9603d4b9ded01bb6948c1",
+    "__v": 0
+  },
+  {
+    "id": 17,
+    "name": "temp4",
+    "price": 308,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1740202209730-imageedit_3_8327715921.png",
+    "_id": "67b960e1742b6c69c5948acc",
+    "__v": 0
+  },
+  {
+    "id": 18,
+    "name": "temp5",
+    "price": 308,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1740202340685-imageedit_5_9026800198.png",
+    "_id": "67b96164742b6c69c5948acf",
+    "__v": 0
+  },
+  {
+    "id": 19,
+    "name": "temp6",
+    "price": 308,
+    "category": "Bottoms",
+    "number": 0,
+    "image": "/img/1740202718286-imageedit_6_4998492023-overlay.png",
+    "_id": "67b962de78bced7f390c28c5",
+    "__v": 0
+  },
+  {
+    "id": 20,
+    "name": "temp7",
+    "price": 308,
+    "category": "Bottoms",
+    "stock": 30,
+    "number": 0,
+    "image": "/img/1740202870805-1_XDjErdz0leBt98aANoAisQ.png",
+    "_id": "67b963763c3334af4a7dd050",
+    "__v": 0
+  },
+  {
+    "id": 21,
+    "name": "wow",
+    "price": 20,
+    "category": "Tops",
+    "stock": 20,
+    "number": 0,
+    "image": "/img/1740206499078-93634.png",
+    "_id": "67b971a37dbd51badf4a6255",
+    "__v": 0
+  }
+]

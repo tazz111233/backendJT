@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "6786d08691acbd0c59422000",
+    "id": 1,
+    "name": "cap",
+    "price": 25,
+    "image": "/Users/tasneemmahmud/Desktop/Jaanutuni/backend/img/image-1736888454455-573726192.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "6786d14bf7ed9bdbbffba7e6",
+    "id": 2,
+    "name": "T-shirt",
+    "price": 30,
+    "image": "/Users/tasneemmahmud/Desktop/Jaanutuni/backend/img/image-1736888651538-708434206.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "6786d2b3c7b275f6ea6abaaf",
+    "id": 3,
+    "name": "Jeans",
+    "price": 120,
+    "image": "/Users/tasneemmahmud/Desktop/Jaanutuni/backend/img/image-1736889011598-236133746.jpg",
+    "__v": 0
+  }
+]
