@@ -13,7 +13,7 @@ const app = express();
 const PORT = 5001;
 
 // Middleware
-app.use(cors({ origin: 'http://localhost:3000' })); // Replace with your frontend URL
+app.use(cors({ origin: 'https://chapbaaj.netlify.app/' })); // Replace with your frontend URL
 app.use(express.json());
 app.use('/images', express.static(uploadDir));
 
