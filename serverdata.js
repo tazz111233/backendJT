@@ -59,7 +59,13 @@ const writeProductsFile = (data) => {
 };
 
 // MongoDB Connection
-mongoose.connect('mongodb+srv://tasneemmahmud2000:1122334455@cluster0.nti5kfn.mongodb.net/Jaanutuni?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect('mongodb+srv://tasneemmahmud2000:1122334455@cluster0.nti5kfn.mongodb.net/Jaanutuni?retryWrites=true&w=majority&appName=Cluster0',
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    serverSelectionTimeoutMS: 5000, // Timeout after 5s
+  }
+)
   .then(() => console.log('Successfully connected to database'))
   .catch((err) => console.error('Failed to connect to database', err));
 
